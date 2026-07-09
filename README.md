@@ -370,6 +370,9 @@ This file contains grouped video resource links for quick access and batch manag
 - [Xiaoyaolexue](https://www.xiaoyaolexue.net)
 - [Xmecii](https://www.xmecii.com)
 - [Yiyuan6](https://www.yiyuan6.com)
+- [Yngyou](https://yngyou.com)
+- [Tjlandmap](https://tjlandmap.com)
+- [Ythqfw](https://ythqfw.com)
 
 ## License
 
